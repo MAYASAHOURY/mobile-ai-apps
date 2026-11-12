@@ -9,6 +9,13 @@
 | 5 | QuizPop: חידון בינה מלאכותית, 5 שאלות, ניקוד ומסך תוצאה | `lib/quiz/` |
 | + | רשימת ציונים: ממוצע, ✓/✗ לפי ציון עובר 55, ＋/－ משנים ציון, וכפתור מיון מהגבוה לנמוך | `lib/screens/grades_screen.dart` |
 
+## צילומי מסך (רץ על Samsung SM-S731B)
+<p>
+  <img src="screenshots/01-home.jpg" width="220" alt="מסך ראשי">
+  <img src="screenshots/02-profile.jpg" width="220" alt="מסך פרופיל">
+  <img src="screenshots/03-grades.jpg" width="220" alt="רשימת ציונים">
+</p>
+
 ## הרצה
 ```bash
 flutter create --platforms android,web .
