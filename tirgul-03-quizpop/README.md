@@ -7,7 +7,7 @@
 | 3 | מסך פרופיל עם השם שלי (T1) | `lib/screens/profile_screen.dart` |
 | 4 | כפתור לייק: לב אדום ומונה שעולה ויורד (T2) | `lib/screens/like_screen.dart` |
 | 5 | QuizPop: חידון בינה מלאכותית, 5 שאלות, ניקוד ומסך תוצאה | `lib/quiz/` |
-| + | רשימת ציונים: ממוצע, ✓/✗ לפי ציון עובר 55, ⊕ מעלה ציון | `lib/screens/grades_screen.dart` |
+| + | רשימת ציונים: ממוצע, ✓/✗ לפי ציון עובר 55, ＋/－ משנים ציון, וכפתור מיון מהגבוה לנמוך | `lib/screens/grades_screen.dart` |
 
 ## הרצה
 ```bash
